@@ -20,14 +20,32 @@
 }
 
 .subtitle {
+  text-align: right;
   background-color: black;
   color: white;
   padding: 15px;
   font-family: Ariel, sans-serif;
+  font-size: 15px;
+}
+
+#building {
+  text-decoration: underline;
+}
+
+#art {
+  text-decoration: underline;
+  padding-left: 10px;
+}
+
+#feature {
+  text-decoration: underline;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .buildartfeat {
-  text-align: right;
+  position: absolute;
+  float: right;
 }
 
 #image1 {
@@ -63,16 +81,19 @@
 
 .maintext {
   position: absolute;
+  font-family: Ariel, Helvetica, sans-serif;
   top: 500px;
   right: 250px;
   padding: 50px;
 }
 
-.footnote {
-  position: absolute;
-  background: black;
-  bottom: 0;
-  color: white;
-  width: 100%;
+footer {
+  position: fixed;
+  text-align: left;
+  font-family: Ariel, Helvetica, sans-serif;
+  font-size: 15px;
+  background-color: black;
   padding: 25px;
+  color: white;
+  bottom: 1px;
 }
