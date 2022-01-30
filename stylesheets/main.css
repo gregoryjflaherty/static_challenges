@@ -1,0 +1,78 @@
+.title {
+  background: rgb(153, 0, 0);
+  font-family: Ariel, Helvetica, sans-serif;
+}
+
+.landmarks {
+  font-weight: 550;
+  font-size: 20px;
+  color: white;
+  padding: 25px;
+}
+
+#login {
+  float: right;
+  padding: 30px;
+  color: white;
+  font-weight: 0;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+.subtitle {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  font-family: Ariel, sans-serif;
+}
+
+.buildartfeat {
+  text-align: right;
+}
+
+#image1 {
+  position: relative;
+  float: left;
+  padding: 25px;
+}
+
+.picheader {
+  margin-bottom: 10px;
+}
+.pictures {
+  float: right;
+  left: 850px;
+  padding: 5px;
+}
+
+.picture {
+  position: relative;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-family: Ariel, sans-serif;
+}
+
+#denver {
+  font-family: Ariel, sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.maintext {
+  position: absolute;
+  top: 500px;
+  right: 250px;
+  padding: 50px;
+}
+
+.footnote {
+  position: absolute;
+  background: black;
+  bottom: 0;
+  color: white;
+  width: 100%;
+  padding: 25px;
+}
